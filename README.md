@@ -30,13 +30,19 @@ docs/           效果图说明
 
 ## 效果预览
 
-![预览图 01](docs/images/preview-01.png)
+以下为系统运行界面截图，更多截图见 [docs/preview.md](docs/preview.md)。
 
-![预览图 02](docs/images/preview-02.png)
+![系统预览 01](docs/images/preview-01.png)
 
-![预览图 03](docs/images/preview-03.png)
+![系统预览 02](docs/images/preview-02.png)
 
-更多效果图见 [docs/preview.md](docs/preview.md)。
+![系统预览 03](docs/images/preview-03.png)
+
+![系统预览 04](docs/images/preview-04.png)
+
+![系统预览 05](docs/images/preview-05.png)
+
+![系统预览 06](docs/images/preview-06.png)
 
 ## 脱敏说明
 
@@ -44,7 +50,7 @@ docs/           效果图说明
 - 已移除源码中的硬编码大模型 API Key。
 - 已移除 `node_modules`、缓存、日志和临时文件。
 - 公开版本需自行配置 `DASHSCOPE_API_KEY` 等环境变量。
-- 未上传原始压缩包、PPT/PDF 参赛材料或其他非代码大文件。
+- 未上传原始压缩包、过程材料或其他非代码大文件。
 
 ## 版权声明
 
